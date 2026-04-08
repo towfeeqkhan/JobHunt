@@ -5,6 +5,16 @@ It helps users manage their application pipeline in a Kanban-style board, track 
 The platform includes secure authentication with access/refresh token flow and cookie-based session handling.
 It also supports AI-assisted parsing of raw job descriptions into structured, actionable data.
 
+<img width="1920" height="1080" alt="Screenshot (217)" src="https://github.com/user-attachments/assets/5feded7b-a925-479f-8455-3d56e65705a8" />
+
+<img width="1920" height="1080" alt="Screenshot (214)" src="https://github.com/user-attachments/assets/748785b8-68f3-4b16-b0c4-3400751e4d92" />
+
+<img width="1920" height="1080" alt="Screenshot (215)" src="https://github.com/user-attachments/assets/464081af-5d86-4718-943b-1978eea0a74f" />
+
+
+🔗 **Live Project Link:** https://jobhunt-board.vercel.app
+
+
 ## Tech Stack
 
 ### Frontend
